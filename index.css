@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #c5cb76;
+  }
+  
+  #game {
+    border: 2px solid #0095DD;
+  }
